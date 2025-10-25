@@ -18,9 +18,12 @@ from our fantasy football website, www.sportsworldcentral.com.
 - [Software Development Kit (SDK)](#software-development-kit-sdk)
 
 ## Public API
-*Coming Soon*
 
-We'll by deploying our application soon. Check back for the public API address.
+Our API is hosted at [https://aws-api-container.waw5snsac6ea0.ap-southeast-1.cs.amazonlightsail.com/]/([https://aws-api-container.waw5snsac6ea0.ap-southeast-1.cs.amazonlightsail.com/]).
+
+You can access the interactive documentation at [[https://aws-api-container.waw5snsac6ea0.ap-southeast-1.cs.amazonlightsail.com/]/docs]([https://aws-api-container.waw5snsac6ea0.ap-southeast-1.cs.amazonlightsail.com/]docs).
+
+You can view the OpenAPI specification (OAS) file at [[API URL]/openapi.json]([API URL]/openapi.json).
 
 ## Getting Started
 
